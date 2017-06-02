@@ -1,2 +1,2 @@
-consoe.log('Hello hi')
-fdsafdsajfsk
+console.log('Hello hi')
+console.log('FDSKFJDSA')
